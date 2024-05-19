@@ -1,0 +1,5 @@
+978-0-7475-3269-6,Harry Potter and the Philosopher's Stone,J.K. Rowling,Fantasy,1
+978-0-7475-3848-3,Harry Potter and the Chamber of Secrets,J.K. Rowling,Fantasy,1
+978-0-7475-4215-2,Harry Potter and the Prisoner of Azkaban,J.K. Rowling,Fantasy,1
+978-0-7475-5100-0,Harry Potter and the Goblet of Fire,J.K. Rowling,Fantasy,1
+978-0-7475-5408-7,Harry Potter and the Order of the Phoenix,J.K. Rowling,Fantasy,1

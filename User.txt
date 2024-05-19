@@ -1,0 +1,3 @@
+librarian,password123,hgettta@gmail.com, LIBRARIAN
+user1,password456,sjhsj@gmail.com,REGULAR_USER
+user2,password789,dnsah@gmail.com,REGULAR_USER

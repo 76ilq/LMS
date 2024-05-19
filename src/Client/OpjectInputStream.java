@@ -1,0 +1,7 @@
+
+
+package Client;
+
+class OpjectInputStream {
+
+}

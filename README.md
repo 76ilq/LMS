@@ -26,10 +26,10 @@ The project consists of three main packages:
    - Open the project in your preferred Java IDE.
 
 3. **Run the Server:**
-   - Navigate to the `ServerGUI` package and run the `ServerGUI.java` file to start the server.
+   - Navigate to the `Server` package and run the `ServerGUI.java` file to start the server.
 
 4. **Run the Client:**
-   - Navigate to the `ClientGUI` package and run the `ClientGUI.java` file to start the client application.
+   - Navigate to the `Client` package and run the `ClientGUI.java` file to start the client application.
 
 5. **User Authentication:**
    - Enter your username and password to authenticate and access the system.

@@ -19,7 +19,7 @@ The project consists of three main packages:
 ## Installation and Usage:
 1. **Clone the Repository:**
    ```bash
-   git clone <repository_url>
+   git clone <https://github.com/76ilq/LMS/tree/main>
    ```
 
 2. **Open the Project:**
